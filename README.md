@@ -214,5 +214,5 @@ Built on the customer table: number of accounts, total balance, total loan amoun
 
 ## Author
 
-**[Your name]**
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+**[Sherif Azb]**
+[LinkedIn](https://www.linkedin.com/sherifazb) · [GitHub](https://github.com/SherifAzb)
