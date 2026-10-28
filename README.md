@@ -215,4 +215,4 @@ Built on the customer table: number of accounts, total balance, total loan amoun
 ## Author
 
 **[Sherif Azb]**
-[LinkedIn](https://www.linkedin.com/sherifazb) · [GitHub](https://github.com/SherifAzb)
+[LinkedIn](https://www.linkedin.com/in/sherifazb/) · [GitHub](https://github.com/SherifAzb)
